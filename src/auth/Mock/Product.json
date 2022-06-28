@@ -1,0 +1,142 @@
+[
+    {
+        "id" : 1,
+        "nama" : "Kubis Afrika",
+        "img" : "https://images.unsplash.com/photo-1448030081970-b7d1ae923ed6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "best": "false",
+        "price": 15000
+    },
+    {
+        "id" : 2,
+        "nama" : "Bayam popaye",
+        "img" : "https://images.tokopedia.net/img/cache/700/product-1/2020/7/30/106641221/106641221_751e306e-d0e4-4c4e-a482-797dd9680b4d_499_499",
+        "best" : false,
+        "price" : 20000
+    },
+    {
+        "id" : 3,
+        "nama" : "Kangkung Segar",
+        "img" : "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2021/06/Kandungan-Kangkung.jpg",
+        "best" : true,
+        "price" : 5000
+    },
+    {
+        "id" : 4,
+        "nama" : "Timun Suri",
+        "img" : "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/10/15/164828e7-a63b-4257-b5ea-b6077972e446.jpg",
+        "best" : false,
+        "price" : 10000
+    },
+    {
+        "id" : 5,
+        "nama" : "Bokcoy",
+        "img" : "https://cleananddelicious.com/wp-content/uploads/2017/02/BokChoyCD-640x360.jpeg",
+        "best" : false,
+        "price" : 13000
+    },
+    {
+        "id" : 6,
+        "nama" : "Wortel Jumbo",
+        "img" : "https://img.okezone.com/content/2020/09/17/298/2279449/5-manfaat-wortel-yang-perlu-kamu-tahu-simak-yuk-gquASgDvRP.jpg",
+        "best" : true,
+        "price" : 15000
+    },
+    {
+        "id":7,
+        "nama" : "Terong Ungu",
+        "img" : "https://awsimages.detik.net.id/community/media/visual/2020/06/30/terong-balado-ala-gordon-ramsay_43.jpeg?w=480",
+        "best" :false,
+        "price" : 10000
+    },
+    {
+        "id" : 8,
+        "nama" :  "Cabai rawit",
+        "img" : "https://cdn.antaranews.com/cache/730x487/2019/06/11/cabai-rawit.jpg",
+        "best" : true,
+        "price" : 30000
+    },
+    {
+        "id" : 9,
+        "nama" : "Cabe Hijau",
+        "img" : "https://statik.tempo.co/data/2018/04/18/id_699111/699111_720.jpg",
+        "best" : true,
+        "price" : 20000
+    },
+    {
+        "id" : 10,
+        "nama" : "Sawi Keriting",
+        "img" : "https://budidayayuk.com/wp-content/uploads/2020/09/sawi-keriting-salada.jpg",
+        "best" : true,
+        "price" : 10000
+    },
+    {
+        "id" : 11,
+        "nama" : "Kecambah",
+        "img" : "https://cdn1-production-images-kly.akamaized.net/ZzqOSLVQHMy6LwnSRfDcZGTMAb8=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/895395/original/065948600_1433736198-08062015-kecambah.jpg",
+        "best": "false",
+        "price": 7000
+    },
+    {
+        "id" : 12,
+        "nama" : "Seledri",
+        "img" : "https://asset-a.grid.id/crop/0x0:0x0/945x630/photo/2020/12/03/1135741860.jpg",
+        "best" : false,
+        "price" : 4000
+    },
+    {
+        "id" : 13,
+        "nama" : "Sawi pahit",
+        "img" : "https://awsimages.detik.net.id/customthumb/2012/07/19/297/sawipahitcontent.jpg?w=700&q=90",
+        "best" : false,
+        "price" : 7000
+    },
+    {
+        "id" : 14,
+        "nama" : "Timun",
+        "img" : "https://assets.pikiran-rakyat.com/crop/8x267:959x996/x/photo/2021/02/16/898283990.jpeg",
+        "best" : false,
+        "price" : 10000
+    },
+    {
+        "id" : 15,
+        "nama" : "Daun pepaya",
+        "img" : "https://jovee.id/wp-content/uploads/2020/07/Daun_pepaya.png",
+        "best" : false,
+        "price" : 5000
+    },
+    {
+        "id" : 16,
+        "nama" : "Lobak putih",
+        "img" : "https://cdn1-production-images-kly.akamaized.net/J6cLZK_XxgxMGrPDpKX1nL2-FY0=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2782178/original/063445700_1555568202-iStock-158690297.jpg",
+        "best" : false,
+        "price" : 15000
+    },
+    {
+        "id": 17,
+        "nama" : "Tomat",
+        "img" : "https://awsimages.detik.net.id/community/media/visual/2020/06/10/tomat-untuk-skincare-alami-3_169.jpeg?w=700&q=90",
+        "best" :false,
+        "price" : 10000
+    },
+    {
+        "id" : 18,
+        "nama" :  "Cabai kering",
+        "img" : "https://tabloidsinartani.com/uploads/news/images/770x413/-_190218163454-962.jpg",
+        "best" : false,
+        "price" : 5000
+    },
+    {
+        "id" : 19,
+        "nama" : "Lada hitam",
+        "img" : "https://lzd-img-global.slatic.net/g/p/cb6b909a8092157ee12a41fef5ceae9c.jpg_720x720q80.jpg_.webp",
+        "best" : true,
+        "price" : 4000
+    },
+    {
+        "id" : 20,
+        "nama" : "Belimbing wuluh",
+        "img" : "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/2/13/f6557b77-a83f-479e-8e59-24f844f4cb93.jpg",
+        "best" : false,
+        "price" : 10000
+    }
+]

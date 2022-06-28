@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+## Vegetable Store (e-commerce)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Simple e-commerce build with [VueJS](https://vuejs.org/)
 
-## Recommended IDE Setup
+### Tools
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- [Vue JS](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [VS Code](https://code.visualstudio.com/)
+
+#### Project demo [vegefriend](https://vegefriend.netlify.app)
